@@ -148,7 +148,7 @@ $$
 =\frac12\bigl(\xi(Y)+\eta(X)\bigr).
 $$
 
-The ordered generalised frame is $(e_1^+,\ldots,e_4^+,e_1^-,\ldots,e_4^-)$, where $e_\mu^\pm=\partial_\mu+\iota_{\partial_\mu}b\pm g(\partial_\mu)$. In this frame, the Courant pairing and generalised metric are respectively $\operatorname{diag}(g,-g)$ and $\operatorname{diag}(g,g)$.
+The ordered generalised frame is $(e_1^+,\ldots,e_4^+,e_1^-,\ldots,e_4^-)$, where $e_\mu^\pm=\partial_\mu+\iota_{\partial_\mu}b\pm g(\partial_\mu)$. In this frame, the Courant pairing and generalised metric are respectively $\text{diag}(g,-g)$ and $\text{diag}(g,g)$.
 
 - `Omega[[A,B,C]]` denotes the coefficient of $e_C$ in $\mathcal D_{e_A}e_B$.
 - The preferred flux is $H_{\mathrm{pref}}=H_{\mathrm{twist}}+db$.
