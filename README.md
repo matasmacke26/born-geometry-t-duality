@@ -45,7 +45,7 @@ Full symbolic evaluation can take several minutes or longer, depending on the sy
 
 ## Run the evaluated notebook
 
-1. Open `Born_TDual_GeneralisedGeometry_Evaluated_Fixed.nb` in Mathematica.
+1. Open `Born_TDual_GeneralisedGeometry.nb` in Mathematica.
 2. Start a fresh kernel and evaluate the notebook from the beginning, including its embedded implementation cell.
 3. Run the Schwarzschild and planar charged examples.
 4. Confirm that both `AllChecksProved` and `AllRegularityChecksProved` return `True` for each example.
